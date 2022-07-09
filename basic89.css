@@ -236,6 +236,3 @@ div#content {
     display: flex;
     justify-content: space-between;
 }
-#container .more {
-    text-align: right;
-}
